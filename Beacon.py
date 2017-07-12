@@ -39,8 +39,8 @@ def router(environment, start_response):
 		response = "Success"
 	elif update_matcher.check_request(request):
 		query_dict = dict(urlparse.parse_qsl(request.query_string))
-		major_file = open("Major.txt", "w")
-		minor_file = open("Minor.txt", "w")
+		major_file = open("/home/pi/PiBeacon/Major.txt", "w")
+		minor_file = open("/home/pi/PiBeacon/Minor.txt", "w")
 		major_file.write(query_dict["major"][:2] + " " + query_dict["major"][2:])
 		minor_file.write(query_dict["minor"][:2] + " " + query_dict["minor"][2:])
 		major_file.close()
@@ -51,8 +51,8 @@ def router(environment, start_response):
 	return response
 
 def set_packet_data():
-	major_file = open("Major.txt", "r")
-	minor_file = open("Minor.txt", "r")
+	major_file = open("/home/pi/PiBeacon/Major.txt", "r")
+	minor_file = open("/home/pi/PiBeacon/Minor.txt", "r")
 	os.system("sudo hcitool -i hci0 cmd 0x08 0x0008 1E 02 01 1A 1A FF 4C 00 02 15 61 84 96 F1 C2 0A 4E 8F BA 2A A0 0C CE E4 45 65 " + major_file.read() + " " + minor_file.read() + " C8 00")
 	major_file.close()
 	minor_file.close()
