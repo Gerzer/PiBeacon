@@ -51,8 +51,8 @@ The below list doesn't include the various components of the PiBeacon project it
 	- Windows 8 *(Partial support)*
 	- Windows 10 *(Partial support)*
 - iOS *(Any one version from the sub-list required)*
-	- iOS 11
-	Support for older versions of iOS is under development.
+	- iOS 11  
+	*Support for older versions of iOS is under development.*
 
 ## Instructions
 1. Open PiBakery
