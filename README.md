@@ -4,8 +4,8 @@ Low-cost iBeacon using Raspberry Pi
 ## Components
 All components are required unless stated otherwise.
 ### Hardware
-- Raspberry Pi Zero W
-- Raspberry Pi Zero Official Case *(Optional)*
+- [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
+- [Raspberry Pi Zero Case](https://www.raspberrypi.org/products/raspberry-pi-zero-case/) *(Optional)*
 - microUSB cable
 - 4 GB or larger microSD card
 - microSD to SD card adapter *(Required unless you're able to write to a microSD card directly from your computer)*
