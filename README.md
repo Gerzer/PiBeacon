@@ -19,9 +19,12 @@ All components are required unless stated otherwise.
 	- iPhone 6 Plus *(Partial support)*
 	- iPhone 6s
 	- iPhone 6s Plus
+	- iPhone SE
 	- iPhone 7
 	- iPhone 7 Plus
-	- iPhone SE
+	- iPhone 8
+	- iPhone 8 Plus
+	- iPhone X
 	- iPad (3rd generation) *(Support planned)*
 	- iPad (4th generation) *(Support planned)*
 	- iPad (5th generation)
