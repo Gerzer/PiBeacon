@@ -1,5 +1,5 @@
 # PiBeacon
-Low-cost iBeacon using Raspberry Pi
+Low-cost iBeacon platform using Raspberry Pi
 
 ## Components
 All components are required unless stated otherwise.
@@ -79,6 +79,6 @@ The below list doesn't include the various components of the PiBeacon project it
 12. When ready, eject SD card
 13. Insert SD card into Raspberry Pi
 14. Connect Raspberry Pi to power source
-15. Install [iOS client app](https://github.com/Gerzer/PiBeacon---mobile-edition)
+15. Install [iOS client app](https://link.gerzer.net/pibeacon-mobile)
 16. In iOS app, tap "Add Beacon"
 17. Follow in-app instructions to configure beacon
