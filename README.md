@@ -11,10 +11,7 @@ All components are required unless stated otherwise.
 - microSD to SD card adapter *(Required unless you're able to write to a microSD card directly from your computer)*
 - Computer capable of writing to an SD card
 - iPhone, iPad, or iPod touch *(Any one device from the sub-list required)*
-	- iPhone 4s *(Support planned)*
-	- iPhone 5 *(Support planned)*
 	- iPhone 5s *(Partial support)*
-	- iPhone 5c *(Support planned)*
 	- iPhone 6 *(Partial support)*
 	- iPhone 6 Plus *(Partial support)*
 	- iPhone 6s
@@ -25,10 +22,11 @@ All components are required unless stated otherwise.
 	- iPhone 8
 	- iPhone 8 Plus
 	- iPhone X
-	- iPad (3rd generation) *(Support planned)*
-	- iPad (4th generation) *(Support planned)*
+	- iPhone XS
+	- iPhone XS Max
+	- iPhone XR
 	- iPad (5th generation)
-	- iPad mini *(Support planned)*
+	- iPad (6th generation)
 	- iPad mini 2 *(Partial support)*
 	- iPad mini 3 *(Partial support)*
 	- iPad mini 4 *(Partial support)*
@@ -38,7 +36,6 @@ All components are required unless stated otherwise.
 	- 10.5-inch iPad Pro
 	- 12.9-inch iPad Pro (1st generation)
 	- 12.9-inch iPad Pro (2nd generation)
-	- iPod touch (5th generation) *(Support planned)*
 	- iPod touch (6th generation) *(Partial support)*
 ### Software
 The below list doesn't include the various components of the PiBeacon project itself.
