@@ -34,8 +34,10 @@ All components are required unless stated otherwise.
 	- iPad Air 2 *(Partial support)*
 	- 9.7-inch iPad Pro
 	- 10.5-inch iPad Pro
+	- 11-inch iPad Pro
 	- 12.9-inch iPad Pro (1st generation)
 	- 12.9-inch iPad Pro (2nd generation)
+	- 12.9-inch iPad Pro (3rd generation)
 	- iPod touch (6th generation) *(Partial support)*
 ### Software
 The below list doesn't include the various components of the PiBeacon project itself.
@@ -46,12 +48,14 @@ The below list doesn't include the various components of the PiBeacon project it
 	- macOS El Captian *(Partial support)*
 	- macOS Sierra
 	- macOS High Sierra
+	- macOS Mojave
 	- Windows Vista *(Partial support)*
 	- Windows 7 *(Partial support)*
 	- Windows 8 *(Partial support)*
 	- Windows 10 *(Partial support)*
 - iOS *(Any one version from the sub-list required)*
-	- iOS 11  
+	- iOS 11
+	- iOS 12  
 	*Support for older versions of iOS is under development.*
 
 ## Instructions
