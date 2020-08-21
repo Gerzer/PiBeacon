@@ -16,7 +16,6 @@ All components are required unless stated otherwise.
 	- iPhone 6 Plus *(Partial support)*
 	- iPhone 6s
 	- iPhone 6s Plus
-	- iPhone SE
 	- iPhone 7
 	- iPhone 7 Plus
 	- iPhone 8
@@ -25,20 +24,31 @@ All components are required unless stated otherwise.
 	- iPhone XS
 	- iPhone XS Max
 	- iPhone XR
+	- iPhone 11
+	- iPhone 11 Pro
+	- iPhone 11 Pro Max
+	- iPhone SE (1st generation)
+	- iPhone SE (2nd generation)
 	- iPad (5th generation)
 	- iPad (6th generation)
-	- iPad mini 2 *(Partial support)*
-	- iPad mini 3 *(Partial support)*
-	- iPad mini 4 *(Partial support)*
-	- iPad Air *(Partial support)*
-	- iPad Air 2 *(Partial support)*
+	- iPad (7th generation)
+	- iPad mini (2nd generation) *(Partial support)*
+	- iPad mini (3rd generation) *(Partial support)*
+	- iPad mini (4th generation) *(Partial support)*
+	- iPad mini (5th generation)
+	- iPad Air (1st generation) *(Partial support)*
+	- iPad Air (2nd generation) *(Partial support)*
+	- iPad Air (3rd generation)
 	- 9.7-inch iPad Pro
 	- 10.5-inch iPad Pro
-	- 11-inch iPad Pro
+	- 11-inch iPad Pro (1st generation)
+	- 11-inch iPad Pro (2nd generation)
 	- 12.9-inch iPad Pro (1st generation)
 	- 12.9-inch iPad Pro (2nd generation)
 	- 12.9-inch iPad Pro (3rd generation)
+	- 12.9-inch iPad Pro (4th generation)
 	- iPod touch (6th generation) *(Partial support)*
+	- iPod touch (7th generation)
 ### Software
 The below list doesn't include the various components of the PiBeacon project itself.
 - [PiBakery](http://www.pibakery.org)
@@ -49,13 +59,17 @@ The below list doesn't include the various components of the PiBeacon project it
 	- macOS Sierra
 	- macOS High Sierra
 	- macOS Mojave
+	- macOS Catalina
+	- macOS Big Sur
 	- Windows Vista *(Partial support)*
 	- Windows 7 *(Partial support)*
 	- Windows 8 *(Partial support)*
 	- Windows 10 *(Partial support)*
 - iOS *(Any one version from the sub-list required)*
 	- iOS 11
-	- iOS 12  
+	- iOS 12
+	- iOS 13
+	- iOS 14  
 	*Support for older versions of iOS is under development.*
 
 ## Instructions
