@@ -71,7 +71,7 @@ The below list doesn't include the various components of the PiBeacon project it
 	- iOS 13
 	- iOS 14
 	- iPadOS 13
-	- iPadOS 14
+	- iPadOS 14  
 	*Support for older versions of iOS is under development.*
 
 ## Instructions
