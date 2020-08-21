@@ -65,11 +65,13 @@ The below list doesn't include the various components of the PiBeacon project it
 	- Windows 7 *(Partial support)*
 	- Windows 8 *(Partial support)*
 	- Windows 10 *(Partial support)*
-- iOS *(Any one version from the sub-list required)*
+- iOS or iPadOS *(Any one version from the sub-list required)*
 	- iOS 11
 	- iOS 12
 	- iOS 13
-	- iOS 14  
+	- iOS 14
+	- iPadOS 13
+	- iPadOS 14
 	*Support for older versions of iOS is under development.*
 
 ## Instructions
@@ -94,6 +96,6 @@ The below list doesn't include the various components of the PiBeacon project it
 12. When ready, eject SD card
 13. Insert SD card into Raspberry Pi
 14. Connect Raspberry Pi to power source
-15. Install [iOS client app](https://link.gerzer.net/pibeacon-mobile)
-16. In iOS app, tap "Add Beacon"
+15. Install [iOS/iPadOS client app](https://link.gerzer.net/pibeacon-mobile)
+16. In iOS/iPadOS app, tap "Add Beacon"
 17. Follow in-app instructions to configure beacon
