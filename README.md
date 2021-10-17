@@ -27,26 +27,40 @@ All components are required unless stated otherwise.
 	- iPhone 11
 	- iPhone 11 Pro
 	- iPhone 11 Pro Max
+	- iPhone 12
+	- iPhone 12 mini
+	- iPhone 12 Pro
+	- iPhone 12 Pro Max
+	- iPhone 13
+	- iPhone 13 mini
+	- iPhone 13 Pro
+	- iPhone 13 Pro Max
 	- iPhone SE (1st generation)
 	- iPhone SE (2nd generation)
 	- iPad (5th generation)
 	- iPad (6th generation)
 	- iPad (7th generation)
+	- iPad (8th generation)
+	- iPad (9th generation)
 	- iPad mini (2nd generation) *(Partial support)*
 	- iPad mini (3rd generation) *(Partial support)*
 	- iPad mini (4th generation) *(Partial support)*
 	- iPad mini (5th generation)
+	- iPad mini (6th generation)
 	- iPad Air (1st generation) *(Partial support)*
 	- iPad Air (2nd generation) *(Partial support)*
 	- iPad Air (3rd generation)
+	- iPad Air (4th generation)
 	- 9.7-inch iPad Pro
 	- 10.5-inch iPad Pro
 	- 11-inch iPad Pro (1st generation)
 	- 11-inch iPad Pro (2nd generation)
+	- 11-inch iPad Pro (3rd generation)
 	- 12.9-inch iPad Pro (1st generation)
 	- 12.9-inch iPad Pro (2nd generation)
 	- 12.9-inch iPad Pro (3rd generation)
 	- 12.9-inch iPad Pro (4th generation)
+	- 12.9-inch iPad Pro (5th generation)
 	- iPod touch (6th generation) *(Partial support)*
 	- iPod touch (7th generation)
 ### Software
@@ -61,18 +75,21 @@ The below list doesn't include the various components of the PiBeacon project it
 	- macOS Mojave
 	- macOS Catalina
 	- macOS Big Sur
+	- macOS Monterey
 	- Windows Vista *(Partial support)*
 	- Windows 7 *(Partial support)*
 	- Windows 8 *(Partial support)*
 	- Windows 10 *(Partial support)*
+	- Windows 11 *(Partial support)*
 - iOS or iPadOS *(Any one version from the sub-list required)*
 	- iOS 11
 	- iOS 12
 	- iOS 13
 	- iOS 14
+	- iOS 15
 	- iPadOS 13
-	- iPadOS 14  
-	*Support for older versions of iOS is under development.*
+	- iPadOS 14
+	- iPadOS 15
 
 ## Instructions
 1. Open PiBakery
